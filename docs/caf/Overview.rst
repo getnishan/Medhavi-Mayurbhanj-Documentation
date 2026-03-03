@@ -1,119 +1,147 @@
 Landing Page
 ============
 
-.. dropdown:: Overview
-   :open:
+Overview
+--------
 
-   The Landing Page serves as the primary entry point to the **Medhavi Mayurbhanj Learning Management System**.  
-   It introduces users to the initiative and provides structured access to the platform’s core learning modules.
+The Landing Page serves as the primary entry point to the **Medhavi Mayurbhanj Learning Management System**.
+It introduces users to the initiative and provides structured access to the platform’s core learning modules.
 
-   The page is designed to:
+The page is designed to:
 
-   - Present the vision of the initiative
-   - Enable quick access to major learning sections
-   - Display important academic updates
-   - Support bilingual navigation (English / Odia)
-   - Provide secure administrative access
-
-
-.. dropdown:: Header Section
-
-   **Components**
-
-   - Official logo of Medhavi Mayurbhanj
-   - Initiative identification: *An Initiative of District Administration*
-   - Language toggle (English / Odia)
-
-   **Functionality**
-
-   - Allows users to switch between supported languages
-   - Maintains official identity and branding consistency
+- Present the vision of the initiative
+- Enable quick access to major learning sections
+- Display important academic updates
+- Support bilingual navigation (English / Odia)
+- Provide secure administrative access
 
 
-.. dropdown:: Vision & Introduction Section
+Page Structure
+==============
 
-   The main banner introduces the platform’s mission and purpose.
+Header Section
+--------------
 
-   **Highlights**
+The header contains:
 
-   - Empowerment of students through education
-   - Academic excellence and structured learning
-   - District-focused educational development
+- Official logo of Medhavi Mayurbhanj
+- Initiative identification: *An Initiative of District Administration*
+- Language toggle (English / Odia)
 
-   This section establishes the platform’s identity and student-centered approach.
+**Functionality**
 
-
-.. dropdown:: Core Navigation Modules
-
-   The landing page provides direct access to three primary modules.
-
-   .. dropdown:: Career Guidance
-
-      - Career exploration resources
-      - Higher education pathways
-      - Competitive exam awareness
-      - Professional opportunities
-
-   .. dropdown:: Exam Preparation
-
-      - Class-wise academic courses
-      - Curriculum-aligned subject content
-      - Structured syllabus coverage
-      - Academic support for board readiness
-
-   .. dropdown:: Career Build Up
-
-      - Skill development modules
-      - Employability enhancement resources
-      - Communication and digital literacy training
+- Allows users to switch between supported languages
+- Maintains official identity and branding consistency
 
 
-.. dropdown:: Announcement Ticker
+Vision & Introduction Section
+-----------------------------
 
-   A scrolling notification bar displays important updates such as:
+The main banner introduces the platform’s mission and purpose.
 
-   - Entrance examination registrations
-   - Application deadlines
-   - Board result announcements
+It highlights:
 
-   **Purpose**
+- Empowerment of students through education
+- Academic excellence and structured learning
+- District-focused educational development
 
-   - Keeps students informed of time-sensitive academic events
-   - Enhances awareness of district-level and national updates
-
-
-.. dropdown:: Visitor Counter
-
-   The landing page displays total platform visits.
-
-   **Purpose**
-
-   - Reflects platform engagement
-   - Demonstrates usage transparency
-   - Provides basic analytics visibility
+This section establishes the platform’s identity and student-centered approach.
 
 
-.. dropdown:: Admin Access
+Core Navigation Modules
+-----------------------
 
-   A dedicated **Login as Admin** button is available for authorized users.
-
-   **Admin Capabilities (Expected)**
-
-   - Content management
-   - Announcement updates
-   - Course organization
-   - Platform monitoring
-
-   Access is restricted to authenticated personnel only.
+The landing page provides direct access to three primary modules.
 
 
-.. dropdown:: Navigation Flow – Student Workflow
+Career Guidance
+~~~~~~~~~~~~~~~
 
-   1. User visits the Landing Page
-   2. Selects preferred language (English / Odia)
-   3. Reviews announcements (if applicable)
-   4. Selects one of the core modules:
-      - Career Guidance
-      - Exam Preparation
-      - Career Build Up
-   5. Navigates to the selected module for detailed learning resources
+Provides access to:
+
+- Career exploration resources
+- Higher education pathways
+- Competitive exam awareness
+- Professional opportunities
+
+
+Exam Preparation
+~~~~~~~~~~~~~~~~
+
+Provides access to:
+
+- Class-wise academic courses
+- Curriculum-aligned subject content
+- Structured syllabus coverage
+- Academic support for board readiness
+
+
+Career Build Up
+~~~~~~~~~~~~~~~
+
+Provides access to:
+
+- Skill development modules
+- Employability enhancement resources
+- Communication and digital literacy training
+
+
+Announcement Ticker
+-------------------
+
+A scrolling notification bar displays important updates such as:
+
+- Entrance examination registrations
+- Application deadlines
+- Board result announcements
+
+**Purpose**
+
+- Keeps students informed of time-sensitive academic events
+- Enhances awareness of district-level and national updates
+
+
+Visitor Counter
+---------------
+
+The landing page displays total platform visits.
+
+**Purpose**
+
+- Reflects platform engagement
+- Demonstrates usage transparency
+- Provides basic analytics visibility
+
+
+Admin Access
+------------
+
+A dedicated **Login as Admin** button is available for authorized users.
+
+Admin Capabilities (Expected)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Content management
+- Announcement updates
+- Course organization
+- Platform monitoring
+
+Access is restricted to authenticated personnel only.
+
+
+Navigation Flow
+---------------
+
+Student Workflow
+~~~~~~~~~~~~~~~~
+
+1. User visits the Landing Page.
+2. Selects preferred language (English / Odia).
+3. Reviews announcements (if applicable).
+4. Selects one of the core modules:
+
+   - Career Guidance
+   - Exam Preparation
+   - Career Build Up
+
+5. Navigates to the selected module for detailed learning resources.
