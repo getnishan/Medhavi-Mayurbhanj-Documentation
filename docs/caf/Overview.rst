@@ -7,7 +7,7 @@ Overview
 The Landing Page serves as the primary entry point to the **Medhavi Mayurbhanj Learning Management System**.
 It introduces users to the initiative and provides structured access to the platform’s core learning modules.
 
-.. image:: /_static/Frame 2147238064.png
+.. image:: /_static/one.png
    :width: 100%
    :align: center
 
