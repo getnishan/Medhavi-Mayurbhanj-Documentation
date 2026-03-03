@@ -129,19 +129,4 @@ Admin Capabilities (Expected)
 Access is restricted to authenticated personnel only.
 
 
-Navigation Flow
----------------
 
-Student Workflow
-~~~~~~~~~~~~~~~~
-
-1. User visits the Landing Page.
-2. Selects preferred language (English / Odia).
-3. Reviews announcements (if applicable).
-4. Selects one of the core modules:
-
-   - Career Guidance
-   - Exam Preparation
-   - Career Build Up
-
-5. Navigates to the selected module for detailed learning resources.
